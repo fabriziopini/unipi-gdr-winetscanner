@@ -46,7 +46,7 @@ Attraverso l'opzione ```-h``` è possibile visualizzare un breve helper delle op
 ### Esempio di esecuzione
 ```sudo python3 WiNetScanner.py -m b -t 60 -v``` 
 Fa la scansione sia degli access points, che dei clients, intercettando paccheti per 60 secondi, con l'opzione verbose (mostra anche i pacchetti catturati).
-Non avendo specificato l'interfaccia, utilizzerà quella di defualt.
+Non avendo specificato l'interfaccia, utilizzerà quella di default.
 
     Using default interface: wlp3s0
     `airmon-ng  start wlp3s0` ran with exit code 0
