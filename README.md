@@ -133,5 +133,5 @@ Non avendo specificato l'interfaccia, utilizzerà quella di default.
 \
 Dalla scansione risultano 
 - 4 access points
-- 10 clients di cui due hanno specificato anche un SSID
+- 4 clients di cui due hanno specificato anche un SSID
 
